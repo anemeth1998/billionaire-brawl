@@ -1,0 +1,14 @@
+{
+  "name": "billionaire-brawl",
+  "private": true,
+  "description": "Street Fighter-style 1v1 of the Forbes top ten richest people (August 2026 snapshot).",
+  "scripts": {
+    "test": "node tests/combat.test.js && node tests/roster.test.js",
+    "test:combat": "node tests/combat.test.js",
+    "test:roster": "node tests/roster.test.js",
+    "capture": "node scripts/capture.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.62.1"
+  }
+}

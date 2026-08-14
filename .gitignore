@@ -1,0 +1,8 @@
+tools/
+node_modules/
+refs/stills/guide-images/
+refs/stills/guide-pages/
+refs/stills/crops/
+refs/stills/sf2-players-guide.pdf
+.DS_Store
+Thumbs.db

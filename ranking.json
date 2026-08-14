@@ -1,0 +1,19 @@
+{
+  "source": "Forbes, The Top 10 Richest People In The World | August 2026",
+  "sourceUrl": "https://www.forbes.com/sites/forbeswealthteam/article/the-top-ten-richest-people-in-the-world/",
+  "rankingAsOf": "2026-08-01T00:00:00-04:00",
+  "snapshotRecorded": "2026-08-14",
+  "note": "Named public ranking: Forbes August 2026 top ten as of August 1, 2026 at 12 a.m. Eastern time. Snapshotted into this repo on 2026-08-14. Satirical fighter roster only.",
+  "fighters": [
+    { "rank": 1, "id": "musk", "name": "Elon Musk", "short": "MUSK", "fortune": "$690B", "source": "SpaceX, Tesla", "age": 55, "residence": "Austin, Texas" },
+    { "rank": 2, "id": "page", "name": "Larry Page", "short": "PAGE", "fortune": "$292B", "source": "Google", "age": 53, "residence": "Palo Alto, California" },
+    { "rank": 3, "id": "bezos", "name": "Jeff Bezos", "short": "BEZOS", "fortune": "$278B", "source": "Amazon", "age": 62, "residence": "Miami, Florida" },
+    { "rank": 4, "id": "brin", "name": "Sergey Brin", "short": "BRIN", "fortune": "$269B", "source": "Google", "age": 52, "residence": "Los Altos, California" },
+    { "rank": 5, "id": "dell", "name": "Michael Dell", "short": "DELL", "fortune": "$229B", "source": "Dell Technologies", "age": 61, "residence": "Austin, Texas" },
+    { "rank": 6, "id": "zuck", "name": "Mark Zuckerberg", "short": "ZUCK", "fortune": "$191B", "source": "Meta (Facebook)", "age": 42, "residence": "Palo Alto, California" },
+    { "rank": 7, "id": "huang", "name": "Jensen Huang", "short": "HUANG", "fortune": "$174B", "source": "Nvidia", "age": 63, "residence": "Los Altos, California" },
+    { "rank": 8, "id": "ellison", "name": "Larry Ellison", "short": "ELLISON", "fortune": "$168B", "source": "Oracle", "age": 81, "residence": "Manalapan, Florida" },
+    { "rank": 9, "id": "arnault", "name": "Bernard Arnault", "short": "ARNAULT", "fortune": "$146B", "source": "LVMH", "age": 77, "residence": "Paris, France" },
+    { "rank": 10, "id": "buffett", "name": "Warren Buffett", "short": "BUFFETT", "fortune": "$145B", "source": "Berkshire Hathaway", "age": 95, "residence": "Omaha, Nebraska" }
+  ]
+}
